@@ -51,6 +51,22 @@ def print_note(txt):
         else:
             print("Журнал заметок пустой!")
 
+def delete_notes():
+    id = input("Введите ID удаляемой заметки: ")
+    notes_arr = load.read_file()
+    flag = False
+
+    for i in notes_arr:
+        if id == Notes.Note.get_id(i):
+            notes_arr.remove(i)
+            flag = True
+
+    if flag:
+        write.write_file(notes_arr, 'a')
+        print("Заметка с id: ", id, " успешно удалена!")
+    else:
+        print("нет такого id")
+
 def change_note():
     id = input("Введите ID изменяемой заметки: ")
     notes_arr = load.read_file()

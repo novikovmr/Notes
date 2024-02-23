@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="994fe7c2-d73f-4c35-ad76-2364e05e04ab" name="Changes" comment="Добавил возможность запись в файл">
+    <list default="true" id="994fe7c2-d73f-4c35-ad76-2364e05e04ab" name="Changes" comment="Обновил функционал">
+      <change afterPath="$PROJECT_DIR$/UI/userMenu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Controller/commands.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/commands.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controller/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controller/controller.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708669067220</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Обновил функционал">
+      <option name="closed" value="true" />
+      <created>1708669691641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708669691641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Начало работы" />
     <MESSAGE value="Добавил возможность прочтения файла" />
     <MESSAGE value="Добавил возможность запись в файл" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил возможность запись в файл" />
+    <MESSAGE value="Обновил функционал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил функционал" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
