@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="994fe7c2-d73f-4c35-ad76-2364e05e04ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idCounter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+    <list default="true" id="994fe7c2-d73f-4c35-ad76-2364e05e04ab" name="Changes" comment="Начало работы">
+      <change afterPath="$PROJECT_DIR$/Controller/commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/load.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/write.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Notes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,20 @@
       <option name="presentableId" value="Default" />
       <updated>1708667092329</updated>
     </task>
+    <task id="LOCAL-00001" summary="Начало работы">
+      <option name="closed" value="true" />
+      <created>1708668102827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708668102827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Начало работы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Начало работы" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
